@@ -15,3 +15,10 @@ Dataset
 	- images: retina with vessels
 	- 1st_manual: annotated mask
 	- mask: circular mask, region of the retina (useful part)
+
+
+- Implementation order
+1. data
+2. model
+3. train
+4. 

@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+retinaBloodVesselSegmentation/logs/train/events.out.tfevents.1658953109.juans-MBP.4154.0.v2

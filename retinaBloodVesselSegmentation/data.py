@@ -96,6 +96,7 @@ if __name__ == "__main__":
 
 	""" Data augmentation """
 	augment_data(train_x, train_y, "new_data/train/", augment=True)
+	augment_data(test_x, test_y, "new_data/test/", augment=True)
 
 
 
